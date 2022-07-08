@@ -12,7 +12,7 @@
     "chart.js": "^3.0.2",
     "chartjs-adapter-moment": "^1.0.0",
     "cruip-js-toolkit": "^1.0.3",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "node-sass": "^5.0.0",
     "postcss": "^8.2.9",
     "react": "^17.0.2",
